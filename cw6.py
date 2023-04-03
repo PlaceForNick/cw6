@@ -7,7 +7,7 @@ i = 0
 while True:
     break
 
-class Transform2():
+class Transform2(z, y):
 
-    def transf():
+    def transf(z, y):
     pass
