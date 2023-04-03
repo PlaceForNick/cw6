@@ -5,9 +5,10 @@ class Transformer():
 
 i = 0
 while True:
+    i += 1
     break
 
-class Transform2(z, y):
+class Transform2():
 
-    def transf(z, y):
+    def transf():
     pass
